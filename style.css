@@ -105,7 +105,7 @@ tbody td:nth-child(odd) {
     text-align:center;
 }
 
-@media screen and (orientation: portrait) {
+@media screen and (orientation: landscape) {
     #toolbar {
         width: 100%;
     }
