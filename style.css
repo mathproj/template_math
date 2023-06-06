@@ -105,4 +105,8 @@ tbody td:nth-child(odd) {
     text-align:center;
 }
 
-@media screen and (max-width: 210mm) and ( orientation: portrait )
+@media screen and (orientation: portrait) {
+    #toolbar {
+        width: 100%;
+    }
+}
