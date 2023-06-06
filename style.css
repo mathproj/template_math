@@ -4,8 +4,9 @@ html{
 
 
 body{
-    background-color: white; /*#f7f2dc*/
-    /* #f7f2dc */
+    /* background-color: white; #f7f2dc */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(19,176,172,0.020133053221288555) 0%, rgba(29,31,136,0.695203081232493) 100%);
 }
 
 .contenedor-principal{
