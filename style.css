@@ -1,5 +1,5 @@
 html{
-    width: 960px;
+    width: 1440px;
 }
 
 
@@ -9,7 +9,7 @@ body{
 }
 
 .contenedor-principal{
-    width: 1500px;
+    width: 1440px;
     border-width: 1px;
     /* margin: auto; */
 }
