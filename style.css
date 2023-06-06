@@ -1,0 +1,107 @@
+html{
+    width: 210mm;
+    height: 297mm;
+}
+
+
+body{
+    background-color: white; /*#f7f2dc*/
+    /* #f7f2dc */
+}
+
+.titulo1{
+    background-color: black;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    color: white ;
+    font-style: inherit;
+    margin: auto;
+}
+
+.contenedor-principal{
+    width: 210mm;
+    height: 297mm;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: auto;
+}
+
+table{
+    display: inline-block;
+    margin: 5px auto  ;
+    /* border: solid; */
+    border-radius: 20px;
+    text-align: center;
+   
+}
+
+th, td {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 5px 5px 5px 5px ;
+    text-align: left;
+  }
+
+
+.frac{
+    background-color: blue;
+    color: white;
+    
+}
+
+.productos{
+    /* margin-top: 10px;
+    margin-left: 1%; */
+    margin-left: 3% ;
+
+}
+
+
+.productos li{
+    display: block;
+    /* vertical-align: top; */
+}
+
+.col1{
+    margin-top: 5px;
+    /* margin-right: 10px; */
+}
+
+.col2{
+    margin-top: 5px;
+    margin-left: 9%;
+}
+
+thead{
+    background-color: #3f87a6;
+    color: white;
+}
+
+
+tbody{
+    background-color: #e4f0f5;
+}
+
+thead th:nth-child(odd) {
+    background-color: #054c6b;
+}
+
+tbody td:nth-child(odd) {
+    background-color: #cbe3ed;
+}
+
+#tab-tit{
+    background-color: #057bad;
+    text-align: center;
+}
+
+#partefinaltabla{
+    text-align: center;
+}
+
+#t2_ th{
+    text-align:center;
+}
+
