@@ -1,6 +1,5 @@
 html{
-    width: 210mm;
-    height: 297mm;
+    width: 960px;
 }
 
 
@@ -20,11 +19,8 @@ body{
 }
 
 .contenedor-principal{
-    width: 210mm;
-    height: 297mm;
+    width: 960px;
     border-width: 1px;
-    border-style: solid;
-    border-radius: 10px;
     margin: auto;
 }
 
@@ -54,7 +50,7 @@ th, td {
 .productos{
     /* margin-top: 10px;
     margin-left: 1%; */
-    margin-left: 3% ;
+    margin-left: 40% ;
 
 }
 
@@ -103,10 +99,4 @@ tbody td:nth-child(odd) {
 
 #t2_ th{
     text-align:center;
-}
-
-@media screen and (orientation: landscape) {
-    #toolbar {
-        width: 100%;
-    }
 }
