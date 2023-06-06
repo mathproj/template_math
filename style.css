@@ -40,7 +40,6 @@ th, td {
     display: inline-block;
     vertical-align: top;
     margin-left: 3%;
-    
 }
 
 
@@ -50,10 +49,12 @@ th, td {
 } */
 
 .col1{
-    margin-top: 100px;
+    transform: scale(1.05);
+    margin-top: 200px;
 }
 
 .col2{
+    transform: scale(1.1);
     margin-top: 5px;
 } 
 
