@@ -62,6 +62,7 @@ th, td {
     margin-top: 70px;
     width: 49%;
     height: 49%;
+    vertical-align: bottom;
 } 
 
 thead{
