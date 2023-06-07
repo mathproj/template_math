@@ -40,15 +40,15 @@ th, td {
 }
 
 .productos li{
-    display: inline-block;
+    display: block;
     vertical-align: top;
 }
 
 
-/* .productos li{
+.productos li{
     display: inline-block;
-    margin-left: 38% ;
-} */
+    margin-left: 20% ;
+}
 
 .col1{
     margin-top: 100px;
