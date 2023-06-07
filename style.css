@@ -51,13 +51,15 @@ th, td {
 }
 
 .col1{
+    transform: scale(1.1);
     margin-top: 5px;
     width: 49%;
     height: 49%;
 }
 
 .col2{
-    margin-top: 5px;
+    transform: scale(1.1);
+    margin-top: 70px;
     width: 49%;
     height: 49%;
 } 
